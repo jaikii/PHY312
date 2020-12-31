@@ -1,6 +1,6 @@
 # PHY312
 ### It is the course offered by Department of Physics, IISER Bhopal. I took this course in 2017-18 Semester II.
-This repository is made keeping in mind to help students starting their journey in Computational Physics or Programming with Python.
+This repository include all the code that i wrote while enrolled in the course. This repositry is made available to help students starting their journey in Computational Physics or Programming with Python.
 
 Book references:
 1. AnIntroduction to Computational Physics by _Tao Pang_.
